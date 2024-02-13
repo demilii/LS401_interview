@@ -62,6 +62,6 @@ Further modify the /static/main.js file, create your first 3D virtual scene. You
 
 1. A ground plane.
 2. One ball locate at the original point.
-3. Two point light sources which create shadow effect on object. (optional) Visualize the light with point light helper.
+3. Two point light sources which create shadow effect on object. Visualize the light with point light helper (optional) .
 4. (optional) Fly the camera by keyboard control and change the look at point by dragging the mouse.
 
