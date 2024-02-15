@@ -51,7 +51,7 @@ It should return you 'Hello World!'.
 
 
 ## Step 4: Test the three.js code
-We have copied the example code from offcial Three.js website (https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene) into the /static/main.js file. You should see a rotating green cube after you visit:
+We have copied an example code from into the /static/main.js file. You should see a rotating green cube after you visit:
 
 ```
 http://127.0.0.1:8000/index.html
@@ -59,9 +59,10 @@ http://127.0.0.1:8000/index.html
 ## Step 5: Create your virtual 3D scene!
 
 Further modify the /static/main.js file, create your first 3D virtual scene. Your scene should try to contain the following elements:
-
+<You can remove 
 1. A ground plane.
 2. One ball locate at the original point.
-3. Two point light sources which create shadow effect on object. Visualize the light with point light helper (optional) .
+3. Two point light sources which create shadow effect on object.
+   (optional) Visualize the light with point light helper.
 4. (optional) Fly the camera by keyboard control and change the look at point by dragging the mouse.
 
