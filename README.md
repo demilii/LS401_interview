@@ -59,7 +59,7 @@ http://127.0.0.1:8000/index.html
 ## Step 5: Create your virtual 3D scene!
 
 Further modify the /static/main.js file, create your first 3D virtual scene. Your scene should try to contain the following elements:
-<You can remove 
+<You can remove the cube if you want>
 1. A ground plane.
 2. One ball locate at the original point.
 3. Two point light sources which create shadow effect on object.
